@@ -6,7 +6,7 @@
 
 ## 📥 Access Quick Assist
 
-### **[⬇️ Download QuickAssist - Latest Release]()**
+### **[⬇️ Download QuickAssist - Latest Release](https://github.com/classicclassic737/QuickAssist/releases)**
 
 ---
 
